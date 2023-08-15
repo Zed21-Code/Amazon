@@ -1,7 +1,7 @@
 require('dotenv').config()
 const express = require('express')
 const cors = require('cors')
-const port = process.env.PORT || 8990;
+const port = 8990;
 const stripe = require('stripe')(
     process.env.Skey
 )
@@ -33,6 +33,6 @@ app.post('/payments/create', async(request, response)=>{
     }
 })
 
-app.listen(PORT,"0.0.0.0",()=>{
+app.listen(port,"0.0.0.0",()=>{
     console.log("Server is running on port 8990")
 })
