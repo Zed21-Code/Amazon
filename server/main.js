@@ -32,6 +32,6 @@ app.post('/payments/create', async(request, response)=>{
     }
 })
 
-app.listen(8990,()=>{
+app.listen(8990,"0.0.0.0",()=>{
     console.log("Server is running on port 8990")
 })
