@@ -69,4 +69,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-[This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build]
+
+
+
+
+
+SAMSUNG Galaxy Watch 6 Classic 43mm Bluetooth Smartwatch w/ Rotating Bezel, Fitness Tracker, Personalized HR Zones, Advanced Sleep Coaching, Heart Monitor, BIA Sensor, US Version, Black
+https://m.media-amazon.com/images/I/71VRQfNEcmL.__AC_SY300_SX300_QL70_FMwebp_.jpg
+$399.00
+
+Sony SRS-RA3000 360 Reality Audio Wi-Fi / Bluetooth Wireless Speaker, Works with Alexa and Google Assistant, Black
+https://m.media-amazon.com/images/I/91ksJ1DzNEL.__AC_SX300_SY300_QL70_FMwebp_.jpg
+$167.34
+
+Wall Clock, Dart on Dark 9.8 Inch Silent Non-Ticking Easy to Read Modern Decorative for Home Office School
+https://m.media-amazon.com/images/I/61qno1IKljL.__AC_SX300_SY300_QL70_FMwebp_.jpg
+$19.99
+
+HAITUN Portable Workout Stand Push Up Board Handles Training System Workout for Home Gym & Traveling Fitness Comfort
+https://m.media-amazon.com/images/I/51BH1ai9-IL.__AC_SX300_SY300_QL70_FMwebp_.jpg
+$177.66
+
+Apple iPad (9th Generation): with A13 Bionic chip, 10.2-inch Retina Display, 64GB, Wi-Fi, 12MP front/8MP Back Camera, Touch ID, All-Day Battery Life – Space Gray
+https://m.media-amazon.com/images/I/61NGnpjoRDL.__AC_SY445_SX342_QL70_FMwebp_.jpg
+$256.68
+title="4.8 out of 5 stars"
+
+Type TV LED TV 65-inch LCD TV 32-inch Curved TV Intelligent Network Screen Type LED LCD
+https://m.media-amazon.com/images/I/411UysbOqKL.__AC_SX300_SY300_QL70_FMwebp_.jpg
+$848.00
+
+logo http://pngimg.com/uploads/amazon/amazon_PNG11.png
+
+
+
+npm install -g firebase-tools
+
+export const app = express();
+app.use(cors({
+  origin: ['http://192.168.1.250:3000','http://localhost:3000',],
+  methods: ["POST", "GET", "DELETE", "PUT"],
+  credentials: true
+}));
